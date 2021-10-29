@@ -1,0 +1,15 @@
+.main-container {
+  height: 100vh;
+}
+.main-content {
+  justify-content: space-evenly;
+  height: 100%;
+}
+
+.main-content h1 {
+  margin: 1rem 0;
+}
+
+.main-content h4 {
+  margin: 1rem;
+}
